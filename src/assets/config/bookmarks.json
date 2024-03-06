@@ -23,11 +23,11 @@
     "items": [
       {
         "title": "ChatGPT",
-        "link": "https://chat.openai.com/"
+        "link": "chat.openai.com"
       },
       {
         "title": "Coze",
-        "link": "https://www.coze.com/"
+        "link": "coze.com"
       }
     ]
   },
