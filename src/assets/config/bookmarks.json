@@ -1,11 +1,7 @@
 [
   {
-    "title": "DuckDuckGo",
-    "link": "duckduckgo.com",
-    "menuIcon": "⭐"
-  },
-  {
     "title": "Wiki",
+    "menuIcon": "⭐",
     "link": "zh.wikipedia.org/wiki"
   },
   {
@@ -22,8 +18,22 @@
     ]
   },
   {
+    "title": "AI",
+    "menuIcon": "🤖",
+    "items": [
+      {
+        "title": "ChatGPT",
+        "link": "https://chat.openai.com/"
+      },
+      {
+        "title": "Coze",
+        "link": "https://www.coze.com/"
+      }
+    ]
+  },
+  {
     "title": "致谢",
-    "menuIcon": "💘",
+    "menuIcon": "🙏",
     "items": [
       {
         "title": "Vercel",
