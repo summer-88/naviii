@@ -18,6 +18,20 @@
     ]
   },
   {
+    "title": "Program",
+    "menuIcon": "💻",
+    "items": [
+      {
+        "title": "XMac.App",
+        "link": "xmac.app"
+      },
+      {
+        "title": "Appstorrent",
+        "link": "appstorrent.ru"
+      }
+    ]
+  },
+  {
     "title": "AI",
     "menuIcon": "🤖",
     "items": [
