@@ -26,8 +26,8 @@
     "menuIcon": "💘",
     "items": [
       {
-        "title": "Vue",
-        "link": "vuejs.org"
+        "title": "Vercel",
+        "link": "vercel.com"
       },
       {
         "title": "NaiveUI",
