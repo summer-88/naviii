@@ -31,7 +31,7 @@ const cardTitlePrefix = "📎";
 const iconAPI = "https://api.faviconkit.com/";
 
 const enginesMap: { [key: string]: string[] } = defaultEnginesMap;
-const defaultEngineKey = "d";
+const defaultEngineKey = "g";
 
 const bookMarks: BookMarks[] = defaultBookMarks;
 
