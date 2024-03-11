@@ -19,10 +19,12 @@
   },
   {
     "title": "MAC Program",
+    "brief": "Mac软件下载",
     "menuIcon": "💻",
     "items": [
       {
         "title": "XMac.App",
+        "brief": "Mac软件下载",
         "link": "xmac.app"
       },
       {
