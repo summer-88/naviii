@@ -18,7 +18,7 @@
     ]
   },
   {
-    "title": "Program",
+    "title": "MAC Program",
     "menuIcon": "💻",
     "items": [
       {
@@ -28,6 +28,26 @@
       {
         "title": "Appstorrent",
         "link": "appstorrent.ru"
+      },
+      {
+        "title": "MacKed",
+        "link": "macked.app"
+      },
+      {
+        "title": "Awesome Mac",
+        "link": "wangchujiang.com/awesome-mac/README-zh.html"
+      },
+      {
+        "title": "Mac软件之家",
+        "link": "www.macapp.so"
+      },
+      {
+        "title": "Xclient",
+        "link": "xclient.info"
+      },
+      {
+        "title": "MacXin",
+        "link": "www.macxin.com"
       }
     ]
   },
