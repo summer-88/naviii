@@ -18,135 +18,8 @@
     ]
   },
   {
-    "title": "学习",
-    "menuIcon": "📚",
-    "items":[
-      {
-        "title": "MDN",
-        "menuIcon": "📖" ,
-        "items":[
-          {
-            "title": "HTML",
-            "link": "developer.mozilla.org/zh-CN/docs/Web/HTML"
-          },
-          {
-            "title": "CSS",
-            "link": "developer.mozilla.org/zh-CN/docs/Web/CSS"
-          }
-        ]
-      },
-      {
-        "title": "W3School",
-        "menuIcon": "📖" ,
-        "items":[
-          {
-            "title": "HTML",
-            "link": "w3school.com.cn/html/index.asp"
-          },
-          {
-            "title": "CSS",
-            "link": "w3school.com.cn/css/index.asp"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "工具",
-    "menuIcon": "🛠",
-    "items": [
-      {
-        "title": "MDN",
-        "link": "developer.mozilla.org"
-      },
-      {
-        "title": "Can I use",
-        "link": "caniuse.com"
-      },
-      {
-        "title": "Regex101",
-        "link": "regex101.com"
-      },
-      {
-        "title": "JSON",
-        "link": "json.cn"
-      },
-      {
-        "title": "Carbon",
-        "link": "carbon.now.sh"
-      },
-      {
-        "title": "Draw.io",
-        "link": "draw.io"
-      },
-      {
-        "title": "Excalidraw",
-        "link": "excalidraw.com"
-      },
-      {
-        "title": "Figma",
-        "link": "figma.com"
-      },
-      {
-        "title": "Iconfont",
-        "link": "iconfont.cn"
-      },
-      {
-        "title": "Feather",
-        "link": "feathericons.com"
-      },
-      {
-        "title": "Unsplash",
-        "link": "unsplash.com"
-      },
-      {
-        "title": "Pexels",
-        "link": "pexels.com"
-      },
-      {
-        "title": "Giphy",
-        "link": "giphy.com"
-      },
-      {
-        "title": "Carbon",
-        "link": "carbon.now.sh"
-      },
-      {
-        "title": "TinyPNG",
-        "link": "tinypng.com"
-      },
-      {
-        "title": "RemoveBG",
-        "link": "remove.bg"
-      },
-      {
-        "title": "Canva",
-        "link": "canva.com"
-      },
-      {
-        "title": "Photopea",
-        "link": "photopea.com"
-      },
-      {
-        "title": "LottieFiles",
-        "link": "lottiefiles.com"
-      },
-      {
-        "title": "Gifski",
-        "link": "sindresorhus.com/gifski"
-      },
-      {
-        "title": "Gifox",
-        "link": "gifox.io"
-      },
-      {
-        "title": "Gifski",
-        "link": "sindresorhus.com"
-      }]
-  },
-  {
     "title": "MAC Program",
-    "menuIcon": "💻",
+    "menuIcon": "🖥",
     "items": [
       {
         "title": "XMac.App",
@@ -179,6 +52,32 @@
     ]
   },
   {
+    "title": "Windows Program",
+    "menuIcon": "💻",
+    "items": [
+      {
+        "title": "六音软件",
+        "link": "www.sixyin.com"
+      },
+      {
+        "title": "易破解",
+        "link": "www.ypojie.com"
+      },
+      {
+        "title": "423Down",
+        "link": "www.423down.com"
+      },
+      {
+        "title": "App热",
+        "link": "apphot.cc"
+      },
+      {
+        "title": "NEXT, ITELLYOU",
+        "link": "next.itellyou.cn"
+      }
+    ]
+  },
+  {
     "title": "AI",
     "menuIcon": "🤖",
     "items": [
@@ -189,6 +88,40 @@
       {
         "title": "Coze",
         "link": "coze.com"
+      }
+    ]
+  },
+  {
+    "title": "工具",
+    "menuIcon": "🛠",
+    "items": [
+      {
+        "title": "JSON",
+        "link": "json.cn"
+      },
+      {
+        "title": "Draw.io",
+        "link": "draw.io"
+      },
+      {
+        "title": "Excalidraw",
+        "link": "excalidraw.com"
+      },
+      {
+        "title": "Figma",
+        "link": "figma.com"
+      },
+      {
+        "title": "Iconfont",
+        "link": "iconfont.cn"
+      },
+      {
+        "title": "Feather",
+        "link": "feathericons.com"
+      },
+      {
+        "title": "Unsplash",
+        "link": "unsplash.com"
       }
     ]
   },
